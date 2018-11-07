@@ -12,7 +12,7 @@ The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of
   <li><b>Topic</b>: indicates the topic related to the news.</li>
   <li><b>Source</b>: indicates the name of the source.</li>
   <li><b>Headline</b>: contains the headline of the news.</li>
-  <li><b>Test</b>: contains the raw text of the news.</li>
+  <li><b>Text</b>: contains the raw text of the news.</li>
   <li><b>Link</b>: contains the URL of the source.</li>
 </ul>
 
