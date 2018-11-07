@@ -7,12 +7,14 @@ aspects were considered: 1) news were tagged as true if there was evidence that 
 The corpus contains 971 news divided into 491 real news and 480 fake news. The corpus covers news from 9 different topics: Science, Sport, Economy, Education, Entertainment, Politics, Health, Security, and Society. The corpus was split into train and test sets, using around the 70\% of the corpus for train and the rest for test. We performed a hierarchical distribution of the corpus, i.e., all the categories keep the 70\%-30\% ratio.
 
 The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of the columns is described next:
-Category: indicates the category of the news (true or fake).
-Topic: indicates the topic related to the news.
-Source: indicates the name of the source.
-Headline: contains the headline of the news.
-Test: contains the raw text of the news.
-Link: contains the URL of the source.
+<ul>
+  <li><b>Category</b>: indicates the category of the news (true or fake).</li>
+  <li><b>Topic</b><li><b>Topic</b>: indicates the topic related to the news.</li>
+  <li><b>Source</b>: indicates the name of the source.</li>
+  <li><b>Headline</b>: contains the headline of the news.</li>
+  <li><b>Test</b>: contains the raw text of the news.</li>
+  <li><b>Link</b>: contains the URL of the source.</li>
+</ul>
 
 If you use the corpus please cite the following article:
 
