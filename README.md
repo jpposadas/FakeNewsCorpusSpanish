@@ -16,12 +16,14 @@ The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of
   <li><b>Link</b>: contains the URL of the source.</li>
 </ul>
 
+<h2>The corpus is no longer public available. If you have interest in the corpus please contact us by sending an email to jpposadas@gmail.com</h2>
+
 If you use the corpus please cite the following article:
 
-Posadas-Durán, J., Gómez-Adorno, H., Sidorov, G., Moreno, J. (2018). Detection of Fake News in a New Corpus for the Spanish Language. Journal of Intelligent & Fuzzy Systems, In Press.
+Posadas-Durán, J. P., Gómez-Adorno, H., Sidorov, G., & Escobar, J. J. M. (2019). Detection of fake news in a new corpus for the Spanish language. Journal of Intelligent & Fuzzy Systems, 36(5), 4869-4876.
 
 <h2>Authors of the corpus</h2>
-Juan Manuel Ramírez Cruz (ESIME Zacatenco - IPN), Silvia Úrsula Palacios Alvarado (ESIME Zacatenco - IPN), Karime Elena Franca Tapia (ESIME Zacatenco - IPN), Juan Pablo Francisco Posadas Durán (ESIME Zacatenco - IPN), Helena Montserrat Gómez Adorno (IIMAS - UNAM), Dr. Grigori Sidorov (CIC - IPN)
+Juan Manuel Ramírez Cruz (ESIME Zacatenco - IPN), Silvia Úrsula Palacios Alvarado (ESIME Zacatenco - IPN), Karime Elena Franca Tapia (ESIME Zacatenco - IPN), Juan Pablo Francisco Posadas Durán (ESIME Zacatenco - IPN), Helena Montserrat Gómez Adorno (IIMAS - UNAM), Grigori Sidorov (CIC - IPN)
 
 <h2>Aknowledgments</h2>
 The work was done with partial support of Red Temática de Tecnologías del Lenguaje,  CONACYT project 240844 and SIP-IPN projects 20181849 and 20171813
