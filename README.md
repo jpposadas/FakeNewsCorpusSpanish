@@ -16,8 +16,11 @@ The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of
   <li><b>Link</b>: contains the URL of the source.</li>
 </ul>
 
-<h2>The corpus is no longer public available. If you have interest in the corpus please contact us by sending an email to jpposadas@gmail.com</h2>
+<h2>The fake news corpus in Spanish has been removed from the repository in Github because it will be part of the MEX-A3T competition at the IberLEF 2020 congress. The details of the competition can be viewed in the main page of the compettion https://sites.google.com/view/mex-a3t/. I extend you the invitation to participate in the competition.
 
+At the moment, only the training section of the corpus can be distributed. If you have interest in the corpus please contact us by sending an email to jpposadas@gmail.com</h2>
+
+<h2>How to cite</h2>
 If you use the corpus please cite the following article:
 
 Posadas-Durán, J. P., Gómez-Adorno, H., Sidorov, G., & Escobar, J. J. M. (2019). Detection of fake news in a new corpus for the Spanish language. Journal of Intelligent & Fuzzy Systems, 36(5), 4869-4876.
