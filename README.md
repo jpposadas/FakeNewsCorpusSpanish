@@ -14,6 +14,7 @@ The corpus contains 971 news divided into 491 real news and 480 fake news. The c
 
 The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of the columns is described next:
 <ul>
+  <li><b>Id</b>: assign an identifier to each instance.</li>
   <li><b>Category</b>: indicates the category of the news (true or fake).</li>
   <li><b>Topic</b>: indicates the topic related to the news.</li>
   <li><b>Source</b>: indicates the name of the source.</li>
