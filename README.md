@@ -28,7 +28,7 @@ If you use the corpus please cite the following articles:
 
 1) Posadas-Durán, J. P., Gómez-Adorno, H., Sidorov, G., & Escobar, J. J. M. (2019). Detection of fake news in a new corpus for the Spanish language. Journal of Intelligent & Fuzzy Systems, 36(5), 4869-4876.
 
-2) Aragón, M. E., Jarquín, H., Montes-y-Gómez, M., Escalante, H., Villaseñor-Pineda, L., Gómez-Adorno, H., Bel-Neguix, G., & Posadas-Durán, J. (2020). Overview of MEX-A3T at IberLEF 2020: Fake news and Aggressiveness Analysis case study in Mexican Spanish. In Notebook Papers of 2nd SEPLN Workshop on Iberian Languages Evaluation Forum (IberLEF), Preprint.
+2) Aragón, M. E., Jarquín, H., Gómez, M. M. Y., Escalante, H. J., Villaseñor-Pineda, L., Gómez-Adorno, H., ... & Posadas-Durán, J. P. (2020, September). Overview of mex-a3t at iberlef 2020: Fake news and aggressiveness analysis in mexican spanish. In Notebook Papers of 2nd SEPLN Workshop on Iberian Languages Evaluation Forum (IberLEF), Malaga, Spain.
 
 The fake news corpus in Spanish was used for the **Fake News Detection Task** in the **MEX-A3T** competition at the IberLEF 2020 congress. The details of the competition can be viewed in the main page of the [competition](https://sites.google.com/view/mex-a3t/).
 
