@@ -44,7 +44,7 @@ If you use the corpus please cite the following articles:
 
 2) Aragón, M. E., Jarquín, H., Gómez, M. M. Y., Escalante, H. J., Villaseñor-Pineda, L., Gómez-Adorno, H., ... & Posadas-Durán, J. P. (2020, September). Overview of mex-a3t at iberlef 2020: Fake news and aggressiveness analysis in mexican spanish. In Notebook Papers of 2nd SEPLN Workshop on Iberian Languages Evaluation Forum (IberLEF), Malaga, Spain.
 
-The fake news corpus in Spanish was used for the **Fake News Detection Task** in the **MEX-A3T** competition at the IberLEF 2020 congress. The details of the competition can be viewed in the main page of the [competition](https://sites.google.com/view/mex-a3t/).
+>> The fake news corpus in Spanish was used for the **Fake News Detection Task** in the **MEX-A3T** competition at the IberLEF 2020 congress. The details of the competition can be viewed in the main page of the [competition](https://sites.google.com/view/mex-a3t/).
 
 ## Authors of the corpus
 Juan Manuel Ramírez Cruz (ESIME Zacatenco - IPN), Silvia Úrsula Palacios Alvarado (ESIME Zacatenco - IPN), Karime Elena Franca Tapia (ESIME Zacatenco - IPN), Juan Pablo Francisco Posadas Durán (ESIME Zacatenco - IPN), Helena Montserrat Gómez Adorno (IIMAS - UNAM), Grigori Sidorov (CIC - IPN)
